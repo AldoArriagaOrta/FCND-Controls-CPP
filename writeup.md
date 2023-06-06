@@ -360,7 +360,7 @@ VehicleCommand QuadControl::GenerateMotorCommands(float collThrustCmd, V3F momen
 }
 ```
 ### 8. Flight evaluation.
-It works! The same set of gains work for all the scenarios evaluated and all were marked as PASS.
+It works! The same set of gains works for all the scenarios evaluated and all were marked as PASS.
 
 #### Scenario 1
 ![intro](./animations/01_intro.gif)
